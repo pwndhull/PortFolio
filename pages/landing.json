@@ -1,0 +1,13 @@
+{
+    "imageProfile" : "https://blogs.forbes.com/olliebarder/files/2019/03/one_punch_man_s2_new.jpg",
+    "greeting" : "hello welcome to the Website!.",
+    "introduction" : "I am learning the express template engine.",
+
+    "languages" : [
+        {"name":"javascrip", "years":5},
+        {"name":"Swift", "years":5},
+        {"name":"Python", "years":5},
+        {"name":"Node JS", "years":5},
+    ]
+    
+}
